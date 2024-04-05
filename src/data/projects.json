@@ -1,0 +1,26 @@
+[
+  {
+    "title": "TemanSehat",
+    "imageSrc": "projects/temansehat.png",
+    "description": "This project is a forum app made to compete in Google Solution Challenge",
+    "skills": ["Flutter", "Flask"],
+    "demo": "https://github.com/GDSC-TEMANSEHATAPP-TEAMJAMET/temansehat_frontend?tab=readme-ov-file",
+    "source": "https://github.com/GDSC-TEMANSEHATAPP-TEAMJAMET/temansehat_frontend"
+  },
+  {
+    "title": "Movie Recommender App",
+    "imageSrc": "projects/movrec.png",
+    "description": "It's an application designed to help users discover movies they might enjoy using K-Nearest Neighbor model machine learning.",
+    "skills": ["Python", "Streamlit"],
+    "demo": " https://movie-recommender-rnestiyo.streamlit.app",
+    "source": "https://github.com/mevraism/movie-recommender-app"
+  },
+  {
+    "title": "Web Portfolio 1.0",
+    "imageSrc": "projects/portfolio.png",
+    "description": "This is my first website portfolio showcasing my projects and skills.",
+    "skills": ["HTML", "CSS", "TailwindCSS"],
+    "demo": "https://www.example.com",
+    "source": "https://mevraism.github.io/portfolio/"
+  }
+]

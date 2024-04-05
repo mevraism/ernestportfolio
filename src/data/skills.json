@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+
+  {
+    "title": "TailwindCSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  }
+  
+]

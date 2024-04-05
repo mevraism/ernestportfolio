@@ -1,0 +1,18 @@
+[
+  {
+    "role": "SRD Member",
+    "organisation": "Komatik UGM",
+    "startDate": "Feb, 2024",
+    "endDate": "Present",
+    "experiences": ["Participated in weekly learning session", "Crafted a plan to win GEMASTIK"],
+    "imageSrc": "history/komatik.png"
+  },
+  {
+    "role": "Hacker",
+    "organisation": "GDSC UGM",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Created a Mobile App Project for GSC", "Collaborated with other member"],
+    "imageSrc": "history/google.png"
+  }
+]

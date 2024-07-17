@@ -20,7 +20,7 @@
     "imageSrc": "projects/portfolio.png",
     "description": "This is my first website portfolio showcasing my projects and skills.",
     "skills": ["HTML", "CSS", "TailwindCSS"],
-    "demo": "https://www.example.com",
-    "source": "https://mevraism.github.io/portfolio/"
+    "demo": "https://mevraism.github.io/portfolio/",
+    "source": "https://github.com/mevraism/portfolio"
   }
 ]
